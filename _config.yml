@@ -16,7 +16,7 @@ minima:
   skin: solarized # Options: auto, classic, dark, solarized, solarized-light, solarized-dark
 
 # Build settings
-baseurl: /static-demo
+baseurl: /Staticdemo
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
