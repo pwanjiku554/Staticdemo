@@ -2,4 +2,4 @@
 layout: home
 ---
 
-This is my demo site
+This is my demo sites
